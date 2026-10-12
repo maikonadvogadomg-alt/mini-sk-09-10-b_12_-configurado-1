@@ -1,7 +1,7 @@
 {
-  "id": "./app-mini-sk-09-10-b-12-configurado",
-  "name": "Mini-SK-09-10-b_12_-configurado (1)",
-  "short_name": "Mini-SK-09-1",
+  "id": "./app-minisk0910b12configurado1",
+  "name": "minisk0910b12configurado1",
+  "short_name": "minisk0910b1",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

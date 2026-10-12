@@ -1,19 +1,19 @@
 # 📋 Plano do projeto: Mini-SK-09-10-b_12_-configurado (1)
 
-_Gerado em 12/10/2026, 18:12:43 — sem IA, lendo os arquivos._
+_Gerado em 12/10/2026, 18:18:25 — sem IA, lendo os arquivos._
 
 ## 📊 Visão geral
 | Item | Valor |
 |---|---|
-| Arquivos | 68 |
-| Linhas | 10.548 |
+| Arquivos | 69 |
+| Linhas | 10.753 |
 | Telas/páginas | 1 |
 | Rotas do backend | 0 |
 | Chamadas do app | 0 |
 | Tabelas do banco | 0 |
 | Variáveis de ambiente | 2 |
 
-**Linguagens:** JavaScript (41), Imagem (15), JSON (3), YAML (2), Imagem SVG (2), Outros (1), CSS (1), Ícone (1), HTML (1), Markdown (1)
+**Linguagens:** JavaScript (41), Imagem (15), JSON (3), YAML (2), Imagem SVG (2), Markdown (2), Outros (1), CSS (1), Ícone (1), HTML (1)
 
 ## 💡 O que fazer (em ordem)
 1. 🧹 Tirar a Replit de 13 arquivo(s) (🏗️ Preparar → Fazer tudo)
@@ -194,6 +194,7 @@ _Só os nomes. Os valores (chaves, senhas) nunca vão no código nem no GitHub._
 ├─ LEIA-ME.md
 ├─ manifest.json
 ├─ package.json
+├─ PLANO.md
 ├─ service-worker.js
 └─ sw.js
 ```
